@@ -100,4 +100,9 @@ Several new analytical features were created.
 ### Delivery Delay
 
 ```text
-Delivery_Delay = Actual_Delivery_Days - Est_Delivery_Days
+Delivery_Delay = Actual_Delivery_Days - Est_Delivery_Days[ecommerce_customer_behavior_and_delivery_analytics.pdf](https://github.com/user-attachments/files/32430342/ecommerce_customer_behavior_and_delivery_analytics.pdf)
+
+
+[Uploading Ecommerce_Cleaned_Data.csv…]()
+
+
