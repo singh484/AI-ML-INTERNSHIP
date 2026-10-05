@@ -43,7 +43,7 @@ The main objectives of this project are:
 ##  Dataset
 
 The project uses an e-commerce transactional dataset named:
-[Ecommerce_Orders.csv](
+[Ecommerce_Orders.csv](https://github.com/singh484/AI-ML-INTERNSHIP/blob/main/ecommerce_orders.csv)
 
 The dataset contains information about:
 
