@@ -1,6 +1,6 @@
 # AI-ML-INTERNSHIP
 # E-Commerce Customer Behavior & Delivery Analytics
-A foundational data analytics project focused on understanding e-commerce customer behavior, delivery performance, return patterns, discount impact, and revenue using Python, NumPy, Pandas, and Matplotlib.
+A foundational data analytics project focused on understanding e-commerce customer behavior, delivery performance, return patterns, discount impact, and revenue using Python, NumPy, Pandas, and Matplotlib. 
 
 ##  Project Overview
 
@@ -12,7 +12,7 @@ Although the platform's Gross Merchandise Value (GMV) has increased, operating m
 - Delivery and logistics delays
 - Heavy dependence on discounts
 
-This project analyzes transactional e-commerce data to identify operational bottlenecks, customer behavior patterns, and revenue-impacting factors.
+This project analyzes transactional e-commerce data to identify operational bottlenecks, customer behavior patterns, and revenue-impacting factors. ([SwiftKart_Analytics.pdf]()
 
 ---
 ##  Objectives
