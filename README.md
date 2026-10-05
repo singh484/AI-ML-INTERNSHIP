@@ -12,7 +12,7 @@ Although the platform's Gross Merchandise Value (GMV) has increased, operating m
 - Delivery and logistics delays
 - Heavy dependence on discounts
 
-This project analyzes transactional e-commerce data to identify operational bottlenecks, customer behavior patterns, and revenue-impacting factors. ([SwiftKart_Analytics.pdf]()
+This project analyzes transactional e-commerce data to identify operational bottlenecks, customer behavior patterns, and revenue-impacting factors. ([SwiftKart_Analytics.pdf](https://github.com/singh484/AI-ML-INTERNSHIP/blob/main/ecommerce_customer_behavior_and_delivery_analytics.pdf)
 
 ---
 ##  Objectives
