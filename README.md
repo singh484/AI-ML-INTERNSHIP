@@ -96,16 +96,7 @@ Missing customer ratings were handled using an appropriate analytical strategy a
 
 Several new analytical features were created.
 
-### Delivery Delay
-
-```text
-Delivery_Delay = Actual_Delivery_Days - Est_Delivery_Days[ecommerce_customer_behavior_and_delivery_analytics.pdf](https://github.com/user-attachments/files/32430342/ecommerce_customer_behavior_and_delivery_analytics.pdf)
-
-
-[Uploading Ecommerce_Cleaned_Data.csv…]()
 [Ecommerce_Cleaned_Data.csv](https://github.com/singh484/AI-ML-INTERNSHIP/blob/main/Ecommerce_Cleaned_Data.csv)
-
-[code.ipynb](https://github.com/user-attachments/files/32430998/code.ipynb)
 
 
 
